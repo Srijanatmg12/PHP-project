@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type ="text/css" href ="catalog_19032186.css"?>
+
+<!DOCTYPE musicstore SYSTEM "catalog_19032186.dtd">
+<musicstore>
+      <storedetails>
+	  		<storelogo>
+				<logo1> </logo1>	
+			</storelogo>
+		    <storename>Srijana Store</storename>
+			<storeaddress>
+				<street>4001, Baisdhara</street>
+                <city>Balaju</city>
+                <state>Kathmandu</state>
+                <zip>32815</zip>
+            </storeaddress>
+			<storephonenumber>98417841127</storephonenumber>
+			<storeemailaddress>srijanastore@gmail.com </storeemailaddress>
+			<storewebsite>www.srijanastore.com</storewebsite>
+			
+
+			<songlist>
+				<genre>
+					<typesofgenre id="1" instruments="Piano,Double bass,The Drums">Jazz Music</typesofgenre>
+					<songdetails >
+						<songname type="Jazz">So What</songname>
+						<singer> </singer>
+						<artist> </artist>
+						<writer> </writer>
+						<producer>Producer:Teo Macero</producer>
+						<releasedyear date="M/D/Y">Released Year:August 17,1959</releasedyear>
+						<recordedyear>Recorded Year: March 2,1959</recordedyear>
+						<length measure="min">Length; 9:22</length>
+						<album>Album:Kind of Blue</album>
+						<composer>Composer: Miles Davis</composer>
+						
+					</songdetails>
+
+					<songdetails >
+						<songname type="Jazz">Fly Me to the Moon</songname>
+						<singer> </singer>
+						<artist> </artist>
+						<writer>Writer: Bart Howard</writer>
+						<producer> </producer>
+						<releasedyear date="M/D/Y">Released Year:April 1954</releasedyear>
+						<recordedyear>Recorded Year: 1954</recordedyear>
+						<length measure="min">Length; 2:14</length>
+						<album> </album>
+						<composer> </composer>
+						
+					</songdetails>
+				</genre>
+
+                <genre>
+					<typesofgenre id="2" instruments="Electric Guiatar and bass,The Drums" >Rock Music</typesofgenre>
+					<songdetails>
+						<songname type="Rock">A Day in the Life</songname>
+						<singer> </singer>
+						<artist>Artist: The Beatles </artist>
+						<writer> Writer: Lennon-McCartney </writer>
+						<producer> Producer: George Martin</producer>
+						<releasedyear date="M/D/Y"> Released Year:26 May 1967 </releasedyear>
+						<recordedyear> Recorded Year: 19 January 1967</recordedyear>
+						<length measure="min"> Length; 5:35 </length>
+						<album> </album>
+						<composer> </composer>
+						
+					</songdetails>
+
+					<songdetails>
+						<songname type="Rock">Born to Be Wild</songname>
+						<singer> </singer>
+						<artist>Artist: Steppenwolf</artist>
+						<writer> Writer: Mars Bonfire </writer>
+						<producer> Producer: Gabriel Mekler</producer>
+						<releasedyear datedate="M/D/Y"> Released Year: June 1968 </releasedyear>
+						<recordedyear> Recorded Year: 19 January 1967</recordedyear>
+						<length measure="min"> Length; 3:30 </length>
+						<album> </album>
+						<composer> </composer>
+						
+					</songdetails>
+
+					<songdetails>
+						<songname type="Rock">You Really Got Me </songname>
+						<singer> </singer>
+						<artist>Artist: The Kinks </artist>
+						<writer> Writer:Ray Davies</writer>
+						<producer> Producer: Shel Talmy</producer>
+						<releasedyear date="M/D/Y"> Released Year:4 August 1964 </releasedyear>
+						<recordedyear> Recorded Year:July 1964</recordedyear>
+						<length measure="min"> Length; 2:20 </length>
+						<album> </album>
+						<composer> </composer>
+					</songdetails>
+
+
+				</genre>
+                  
+                <genre>
+				    <typesofgenre id="3" instruments="Autoharp,Banjo,Bass,Dobro"> Country Music </typesofgenre>
+					<songdetails>
+						<songname type="Country Music"> I Hope You Dance </songname>
+						<singer> Singer: Lee Ann Womack</singer>
+						<artist> Artist: Sons of the Desert </artist>
+						<writer> Writer: Mark D,Sanders,Tia Sillers </writer>
+						<producer> Producer: Mark Wright </producer>
+						<releasedyear date="M/D/Y"> Released Year: March 2000 </releasedyear>
+						<recordedyear> Recorded Year: September 1999</recordedyear>
+						<length measure="min">Length; 4:54 </length>
+						<album> </album>
+						<composer> </composer>
+					</songdetails>
+
+					<songdetails>
+						<songname type="Country Music"> Forever and Ever,Amen </songname>
+						<singer> Singer: Randy Travis</singer>
+						<artist> </artist>
+						<writer> Writer: Paul Overstreet,Don Schlitz </writer>
+						<producer> Producer: Kyle Lehning </producer>
+						<releasedyear date="M/D/Y"> Released Year: March 1987</releasedyear>
+						<recordedyear>Recorded Year: January 1987</recordedyear>
+						<length measure="min"> Length; 3:31 </length>
+						<album> Album: Always and Forever </album>
+						<composer> </composer>
+					</songdetails>
+				</genre>
+
+				<genre>
+				    <typesofgenre id="4" instruments="Electric Pianos and keyboard,Guitar" >Pop Music</typesofgenre>
+					<songdetails>
+						<songname type="PopMusic"> Rain on Me</songname>
+						<singer> Singer:Lady Gaga, Ariana Grande </singer>
+						<artist> </artist>
+						<writer> Writer: Stefani Germanotta, BloodPop, Ariana Grande, Matthew Burns </writer>
+						<producer> Producer: BloodPop, Burns </producer>
+						<releasedyear date="M/D/Y"> Released Year: May 22 2020</releasedyear>
+						<recordedyear> </recordedyear>
+						<length measure="min"> Length; 3:02 </length>
+						<album> </album>
+						<composer> </composer>
+						
+					</songdetails>
+
+					<songdetails>
+						<songname type="PopMusic"> Dynamite </songname>
+						<singer> Singer: Band BTS </singer>
+						<artist> BTS </artist>
+						<writer> Writer:David Stewart, Jessica Agombar</writer>
+						<producer>Producer: David Stewart </producer>
+						<releasedyear date="M/D/Y"> Released Year: August 2021 2020 </releasedyear>
+						<recordedyear> Recorded Year: July 2020</recordedyear>
+						<length measure="min"> Length; 3:19 </length>
+						<album> Album: K-pop </album>
+						<composer> </composer>
+					</songdetails>
+
+
+				</genre>
+     
+                <genre>
+				    <typesofgenre id="5" instruments="Bass,Drums">Dub Step </typesofgenre>
+					<songdetails>
+						<songname type="dubstep"> I Need Air </songname>
+						<singer> Singer:Angela Hunte </singer>
+						<artist> </artist>
+						<writer> Writer: Arthur Smith, Angela Hunte, Beni Adejumo, Oliver Jones </writer>
+						<producer> Producer:Magnetic Man </producer>
+						<releasedyear date="M/D/Y"> Released Year:23 July 2010 </releasedyear>
+						<recordedyear> Recorded Year:2010 </recordedyear>
+						<length measure="min"> Length;4:18 </length>
+						<album> Album:Magnetic Man </album>
+						<composer> </composer>
+					</songdetails>
+				</genre>
+            </songlist>
+          
+        </storedetails>
+</musicstore>
+
+

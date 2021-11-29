@@ -1,0 +1,130 @@
+musicstore { 
+    background-color: rgb(0, 0, 0)
+  
+}
+
+storedetails {
+    text-align: center; 
+    display: block; 
+    border: 3px; 
+    width: 80%; 
+    margin: 5px; 
+    padding: 30px;
+    padding-bottom: 10px; 
+    margin: auto;
+    color: rgb(185, 26, 26);
+
+}
+  
+storename    { 
+    display: block; 
+    width: 100%; 
+    font-family: Arial, Helvetica, Sans-serif; 
+    font-size: 50px; 
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+storename:hover {
+    font-size: 70px; 
+    text-shadow: 3px 3px white;
+    font-style:bold;
+}
+
+
+storeaddress,storephonenumber,storeemailaddress,storewebsite{ 
+    display: block; 
+    width: 100%; 
+    font-family: Arial, Helvetica, Sans-serf; 
+    font-size:20px; 
+    font-style:bold;
+    margin-top: 1%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center
+
+}
+
+
+
+storelogo{
+    height: 250px;
+}
+
+logo1 { 
+    content: url(logo.jpg);
+    padding-left: auto;
+    padding-right: auto;
+    height: 150px;
+}
+
+
+
+songlist {
+    background-color: rgb(185, 26, 26) ; 
+    text-align: center; 
+    display: block; 
+    color: black;
+    border: 2px dashed black;  
+    width: 100%; 
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+genre{
+    background-color: rgb(231, 164, 164) ; 
+    text-align: center; 
+    display: block; 
+    border: 2px dashed black;  
+    width: 90%; 
+    margin: 5% 5% 5% 5%; 
+   }
+
+typesofgenre{
+    text-shadow:0px 0px 3px black; 
+    display: block; 
+    width: 100%; 
+    font-family: Times New Roman, Times, serif; 
+    font-size: 30px; 
+    font-style: bold; 
+    color: black; 
+    text-align: center; 
+    margin-top: 10px; 
+    border-bottom: 3px solid grey;
+}
+
+
+  
+songname    {
+    text-shadow:0px 0px 3px black; 
+    display: block; 
+    width: 90%; 
+    margin: 5% 5% 5% 5%; 
+    font-family: Times New Roman, Times, serif; 
+    font-size: 15pt; 
+    font-style: bold; 
+    color: black; 
+    text-align: center; 
+    border-bottom: 3px solid grey;
+}
+
+songdetails {
+    background-color: rgb(241, 207, 207) ; 
+    text-align: center; 
+    display: block; 
+    border: 2px dashed black;  
+    width: 90%; 
+    margin: 5% 5% 5% 5%; 
+    padding-bottom: 5%; 
+}
+  
+artist,length,singer,album,composer,producer, writer,releasedyear,recordedyear,label    {
+    display: list-item; 
+    font-family: Arial, Helvetica, Sans-serif; 
+    font-size:14pt; 
+    list-style-type:circle; 
+    margin-left: 5%;
+    text-align: center;
+}
+  

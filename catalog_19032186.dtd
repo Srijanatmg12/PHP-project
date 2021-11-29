@@ -1,0 +1,66 @@
+<!DOCTYPE musicstore[
+<!ELEMENT musicstore (storedetails)>
+<!ATTLIST musicstore xmlns:xsi CDATA #REQUIRED xsi:noNamespaceSchemaLocation CDATA #REQUIRED>
+
+<!ELEMENT storedetails (storelogo,storename,storeaddress,storephonenumber,storeemailaddress,storewebsite,songlist+)>
+
+<!ELEMENT storelogo (#PCDATA)>
+<!ELEMENT logo1 (#PCDATA)> 
+
+<!ELEMENT storename (#PCDATA)>
+
+<!ELEMENT storeaddress (street,city,state,zip)>
+
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT zip (#PCDATA)>
+
+<!ELEMENT storephonenumber (#PCDATA)>
+<!ELEMENT storeemailaddress (#PCDATA)>
+<!ELEMENT storewebsite (#PCDATA)>
+
+<!ELEMENT songlist (genre)>
+
+<!ELEMENT genre (typesofgenre,songlist+)>
+
+<!ELEMENT typesofgenre (#PCDATA)>
+<!ATTLIST typesofgenre id CDATA #REQUIRED>
+<!ATTLIST typesofgenre instruments CDATA #REQUIRED>
+
+<!ELEMENT songdetails (songname,singer?,artist?,writer?,producer,releasedyear,recordedyear,length,album?,composer?,label?)>
+
+<!ELEMENT songname (#PCDATA)>
+<!ATTLIST songname type CDATA #REQUIRED>
+
+<!ELEMENT singer (#PCDATA)>
+<!ELEMENT artist (#PCDATA)>
+<!ELEMENT writer (#PCDATA)>
+<!ELEMENT producer (#PCDATA)>
+
+<!ELEMENT releasedyear (#PCDATA)>
+<!ATTLIST releasedyear date CDATA #REQUIRED>
+
+<!ELEMENT recordedyear (#PCDATA)>
+
+<!ELEMENT length (#PCDATA)>
+<!ATTLIST measure CDATA #REQUIRED>
+
+<!ELEMENT album (#PCDATA)>
+<!ELEMENT composer (#PCDATA)>
+<!ELEMENT label (#PCDATA)>
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
